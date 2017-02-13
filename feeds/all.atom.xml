@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>GruPy-PR</title><link href="http://grupypr.github.io/" rel="alternate"></link><link href="http://grupypr.github.io/feeds/all.atom.xml" rel="self"></link><id>http://grupypr.github.io/</id><updated>2017-02-13T10:20:00-02:00</updated><entry><title>Primeiro encontro do ano</title><link href="http://grupypr.github.io/2017/primeiro-encontro-do-ano.html" rel="alternate"></link><published>2017-02-13T10:20:00-02:00</published><updated>2017-02-13T10:20:00-02:00</updated><author><name>Álvaro Justen</name></author><id>tag:grupypr.github.io,2017-02-13:/2017/primeiro-encontro-do-ano.html</id><summary type="html">&lt;p&gt;No dia 12 de fevereiro fizemos o primeiro encontro de 2017 e foi super legal! :)&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ontem (12 de fevereiro de 2017) rolou o primeiro encontro do
+&lt;a href="https://grupypr.github.io/"&gt;GruPy-PR&lt;/a&gt; do ano - e pelo que conversamos nesse
+ano rolarão muuuitos outros! :)&lt;/p&gt;
+&lt;p&gt;O encontro aconteceu em um espaço para festas do condomínio onde mora o Eduardo
+Bratz, que gentilmente nos recebeu por lá. =) Rolou sinuca, cerveja, petiscos,
+muita conversa sobre diversos assuntos maneiros e algumas apresentações sobre
+&lt;a href="http://python.org/"&gt;Python&lt;/a&gt;, obviamente.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://grupypr.github.io/images/2017-02-12-encontro.jpg"&gt;&lt;img alt="Galera reunida no primeiro encontro de
+2017" src="http://grupypr.github.io/images/thumbnail/2017-02-12-encontro.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Participantes&lt;/h2&gt;
+&lt;p&gt;No total tivemos 8 pythonistas no encontro:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/turicas/"&gt;Álvaro Justen&lt;/a&gt; (eu)&lt;/li&gt;
+&lt;li&gt;Eduardo Bratz&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ellisonleao/"&gt;Ellison Leão&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ricobl"&gt;Enrico Batista da Luz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lucaskotres"&gt;Lucas Kotres&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/marcelobelli"&gt;Marcelo Belli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ramiroluz"&gt;Ramiro Luz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Thiago Serafim&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Apresentações&lt;/h2&gt;
+&lt;p&gt;Rolaram duas apresentações técnicas informais:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://github.com/marcelobelli"&gt;Marcelo Belli&lt;/a&gt; falou sobre seu projeto
+  &lt;a href="https://github.com/marcelobelli/PyNFSe"&gt;PyNFSe&lt;/a&gt;&lt;/strong&gt;: uma biblioteca que faz
+  interface com o sistema de emissão de notas fiscais de serviço com a
+  &lt;a href="http://www.curitiba.pr.gov.br/"&gt;Prefeitura de Curitiba&lt;/a&gt; - dessa maneira você
+  consegue automatizar o processo de emissão dessas notas e não precisa lidar
+  com a interface &lt;a href="https://en.wikipedia.org/wiki/SOAP"&gt;SOAP&lt;/a&gt; existente. Ele
+  também está criando uma &lt;a href="https://github.com/marcelobelli/restNFSe"&gt;API REST para emissão das
+  notas&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://github.com/ellisonleao"&gt;Ellison Leão&lt;/a&gt; nos mostrou a arquitetura que
+  usou no seu projeto
+  &lt;a href="https://github.com/ellisonleao/pyshorteners"&gt;pyshorteners&lt;/a&gt;&lt;/strong&gt;, que talvez
+  seja útil no &lt;a href="https://github.com/marcelobelli/PyNFSe"&gt;PyNFSe&lt;/a&gt; (quando a
+  biblioteca for suportar outras prefeituras); mostrou rapidamente também o
+  &lt;a href="https://github.com/ellisonleao/howdoi"&gt;howdoi&lt;/a&gt; (uma interface de linha de
+  comando para encontrar respostas no &lt;a href="http://stackoverflow.com/"&gt;Stack
+  Overflow&lt;/a&gt;) que ele está implementando em
+  &lt;a href="https://golang.org/"&gt;Go&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Além de Python...&lt;/h2&gt;
+&lt;p&gt;O encontro não é focado em falar somente de &lt;a href="http://python.org/"&gt;Python&lt;/a&gt;: a
+ideia é &lt;strong&gt;reunir a galera, criar laços e o que surgir de papo tá valendo&lt;/strong&gt;,
+desde que todo mundo esteja se divertindo e compartilhando conhecimento.&lt;/p&gt;
+&lt;p&gt;Nosso &lt;a href="https://github.com/ramiroluz"&gt;mestre cervejeiro Ramiro Luz&lt;/a&gt; contou sobre
+o &lt;strong&gt;processo de criação da sua cervejaria&lt;/strong&gt;, os testes que está fazendo e
+detalhes sobre os processos que está usando em sua nova receita (que a galera
+ficou ansiosa pra experimentar). A receita que está sendo testada fica pronta
+em um mês e quem faz parte do &lt;a href="https://grupypr.github.io/"&gt;GruPy-PR&lt;/a&gt; terá o
+privilégio de experimentá-la em breve. :D&lt;/p&gt;
+&lt;p&gt;Eu falei um pouco sobre &lt;strong&gt;café (torras, moagens e processos de extração)&lt;/strong&gt; -
+recentemente alguns integrantes do grupo e eu pedimos vários quilogramas do
+&lt;a href="https://www.facebook.com/selecaodomario"&gt;Café Seleção do Mário&lt;/a&gt; (torrefação de
+um amigo meu, lá das montanhas capixabas) e isso deixou um monte de gente
+curiosa sobre o assunto.  No próximo encontro farei uma apresentação mais
+detalhada sobre o processo de beneficiamento do café, pra deixar mais gente
+viciada.&lt;/p&gt;
+&lt;p&gt;Falamos rapidamente sobre
+&lt;strong&gt;&lt;a href="https://docs.python.org/3/library/asyncio.html"&gt;I/O assíncrono&lt;/a&gt;&lt;/strong&gt; e o
+&lt;a href="https://github.com/ellisonleao"&gt;Ellison&lt;/a&gt; comentou sobre sua experiência com
+&lt;a href="https://golang.org/"&gt;golang&lt;/a&gt; e eu falei um pouquinho sobre minhas brincadeiras
+com &lt;a href="http://www.erlang.org/"&gt;Erlang&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Decisões Que Tomamos&lt;/h2&gt;
+&lt;p&gt;Identificamos que as pessoas que mais participam no grupo são sempre as mesmas,
+ou seja, &lt;strong&gt;está faltando gente nova&lt;/strong&gt;. Chegamos à conclusão que &lt;strong&gt;falta
+frequência fixa nos encontros e precisamos de encontros mais informais&lt;/strong&gt;, para
+não espantar os novatos - daí decidimos que:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vamos tentar &lt;strong&gt;aumentar a capacidade do &lt;a href="http://www.meetup.com/pt/GruPy-PR/"&gt;grupo do GruPy-PR no
+  meetup&lt;/a&gt;&lt;/strong&gt; sem precisar usar o plano pago
+  (parece que existe uma forma gratuita, mas ainda não sabemos como), pois
+  atualmente temos limite de 50 membros (o grupo está lotado e tem gente
+  querendo entrar);&lt;/li&gt;
+&lt;li&gt;Faremos &lt;strong&gt;pelo menos um encontro por mês&lt;/strong&gt; e alternaremos entre um encontro
+  mais informal (em um bar/restaurante) - tipo o que a galera do
+  &lt;a href="https://pythonmg.github.io"&gt;Python-MG&lt;/a&gt; faz, o PyBHar - e outro mais formal,
+  com apresentações de palestras. Esperamos que os mais iniciantes fiquem menos
+  inibidos no encontro informal e queremos encorajar todo mundo a compartilhar
+  conhecimento nas apresentações (que não precisam ser sobre
+  &lt;a href="http://python.org/"&gt;Python&lt;/a&gt; sempre);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Relataremos os encontros em um blog&lt;/strong&gt;, para divulgar o que estamos
+  fazendo e deixar os que não foram no encontro com vontade de ir aos próximos
+  (é exatamente o que estou fazendo nessa publicação :);&lt;/li&gt;
+&lt;li&gt;Tentaremos &lt;strong&gt;gravar as palestras&lt;/strong&gt; para difundir o conteúdo das apresentações
+  (para quem não puder ir aos encontros), divulgar o que está sendo com
+  &lt;a href="http://python.org/"&gt;Python&lt;/a&gt; feito em terras paranaenses e divulgar os
+  encontros do grupo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Participe!&lt;/h2&gt;
+&lt;p&gt;Se você mora no Paraná e quer ficar por dentro do que estamos fazendo por aqui,
+entre no &lt;a href="https://t.me/grupy_pr"&gt;nosso grupo do Telegram&lt;/a&gt; e na
+&lt;a href="https://groups.google.com/forum/#!forum/grupy-pr"&gt;nossa lista de discussão&lt;/a&gt;,
+daí apresente-se e participe dos próximos encontros.&lt;/p&gt;
+&lt;h2&gt;Próximo Encontro&lt;/h2&gt;
+&lt;p&gt;Nosso próximo encontro já está marcado: &lt;strong&gt;3 de março de 2017 (sexta-feira) às
+19:30 no &lt;a href="https://goo.gl/maps/aFWj5nXEhzD2"&gt;Quintal do Monge (R. Dr. Claudino dos Santos,
+24)&lt;/a&gt;&lt;/strong&gt;. Esse é nosso encontro social e não
+teremos apresentação de palestras.&lt;/p&gt;
+&lt;p&gt;Até lá! =)&lt;/p&gt;</content></entry></feed>
