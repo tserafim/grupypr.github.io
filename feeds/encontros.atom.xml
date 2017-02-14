@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>GruPy-PR - Encontros</title><link href="http://grupypr.github.io/" rel="alternate"></link><link href="http://grupypr.github.io/feeds/encontros.atom.xml" rel="self"></link><id>http://grupypr.github.io/</id><updated>2017-02-13T10:20:00-02:00</updated><entry><title>Primeiro encontro do ano</title><link href="http://grupypr.github.io/2017/primeiro-encontro-do-ano.html" rel="alternate"></link><published>2017-02-13T10:20:00-02:00</published><updated>2017-02-13T10:20:00-02:00</updated><author><name>Álvaro Justen</name></author><id>tag:grupypr.github.io,2017-02-13:/2017/primeiro-encontro-do-ano.html</id><summary type="html">&lt;p&gt;No dia 12 de fevereiro fizemos o primeiro encontro de 2017 e foi super legal! :)&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ontem (12 de fevereiro de 2017) rolou o primeiro encontro do
+<feed xmlns="http://www.w3.org/2005/Atom"><title>GruPy-PR - Encontros</title><link href="http://grupypr.github.io/" rel="alternate"></link><link href="http://grupypr.github.io/feeds/encontros.atom.xml" rel="self"></link><id>http://grupypr.github.io/</id><updated>2017-02-13T10:20:00-02:00</updated><entry><title>Primeiro encontro do ano</title><link href="http://grupypr.github.io/2017/primeiro-encontro-do-ano.html" rel="alternate"></link><published>2017-02-13T10:20:00-02:00</published><updated>2017-02-13T10:20:00-02:00</updated><author><name>Álvaro Justen</name></author><id>tag:grupypr.github.io,2017-02-13:/2017/primeiro-encontro-do-ano.html</id><summary type="html">&lt;p&gt;Ontem (12 de fevereiro de 2017) rolou o primeiro encontro do
+&lt;a href="https://grupypr.github.io/"&gt;GruPy-PR&lt;/a&gt; do ano - e pelo que conversamos nesse
+ano rolarão muuuitos outros! :)&lt;/p&gt;
+&lt;p&gt;O encontro aconteceu em um espaço para festas do condomínio onde mora o Eduardo
+Bratz, que gentilmente nos recebeu por lá. =) Rolou sinuca, cerveja, petiscos,
+muita conversa …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ontem (12 de fevereiro de 2017) rolou o primeiro encontro do
 &lt;a href="https://grupypr.github.io/"&gt;GruPy-PR&lt;/a&gt; do ano - e pelo que conversamos nesse
 ano rolarão muuuitos outros! :)&lt;/p&gt;
 &lt;p&gt;O encontro aconteceu em um espaço para festas do condomínio onde mora o Eduardo
 Bratz, que gentilmente nos recebeu por lá. =) Rolou sinuca, cerveja, petiscos,
 muita conversa sobre diversos assuntos maneiros e algumas apresentações sobre
 &lt;a href="http://python.org/"&gt;Python&lt;/a&gt;, obviamente.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://grupypr.github.io/images/2017-02-12-encontro.jpg"&gt;&lt;img alt="Galera reunida no primeiro encontro de
-2017" src="http://grupypr.github.io/images/thumbnail/2017-02-12-encontro.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/images/2017-02-12-encontro.jpg"&gt;&lt;img alt="Galera reunida no primeiro encontro de
+2017" src="/images/thumbnail/2017-02-12-encontro.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Participantes&lt;/h2&gt;
 &lt;p&gt;No total tivemos 8 pythonistas no encontro:&lt;/p&gt;
 &lt;ul&gt;
@@ -99,4 +104,4 @@ daí apresente-se e participe dos próximos encontros.&lt;/p&gt;
 19:30 no &lt;a href="https://goo.gl/maps/aFWj5nXEhzD2"&gt;Quintal do Monge (R. Dr. Claudino dos Santos,
 24)&lt;/a&gt;&lt;/strong&gt;. Esse é nosso encontro social e não
 teremos apresentação de palestras.&lt;/p&gt;
-&lt;p&gt;Até lá! =)&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;Até lá! =)&lt;/p&gt;</content><category term="Python"></category><category term="Encontros"></category></entry></feed>
