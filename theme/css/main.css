@@ -62,7 +62,7 @@ div.post-content, div.entry-content {
         width: 50%; } }
 
 div.navigation {
-  text-align: left;
+  /*text-align: left*/
   max-width: 1000px;
   margin: 0 auto; }
 
@@ -143,7 +143,7 @@ footer.index-footer {
   text-align: center;
   padding: 10px 0 25px;
   border-top: 1px solid rgba(0, 0, 0, 0.1); }
-  footer.index-footer a {
+  footer.index-footer a, footer.index-footer span {
     display: inline-block;
     color: rgba(0, 0, 0, 0.3);
     font-size: 12px;
@@ -425,7 +425,7 @@ div.author-page-header div.cover {
       height: 400px; } }
 div.author-page-header div.avatar, div.author-page-header div.avatar-no-cover {
   display: inline-block;
-  width: 120px;
+  /*width: 120px*/
   height: 120px; }
   div.author-page-header div.avatar img, div.author-page-header div.avatar-no-cover img {
     border-radius: 100%; }
